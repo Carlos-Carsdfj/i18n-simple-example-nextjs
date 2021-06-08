@@ -1,0 +1,15 @@
+{
+    "contact":{
+        
+        "title" : "Contact me",
+        "link" : "Return to home"
+        
+    },
+
+
+    "home":{
+        "welcome":"Welcome to Next  with i18n",
+        "link" : "to contact page"
+    }
+
+}

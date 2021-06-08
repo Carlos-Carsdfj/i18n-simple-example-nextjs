@@ -1,0 +1,14 @@
+{
+    "contact":{
+        
+        "title" : "Pagina de contacto",
+        "link" : "Regresar a inicio"
+
+    },
+    "home":{
+        "welcome":"Bienvenido a Next  con  i18n",
+        "link" : "A pagina de contacto"
+    }
+
+
+}
